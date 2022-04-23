@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.storyapp.view.ui.MainActivityTest" tests="3" failures="0" errors="0" skipped="0" time="4.313" timestamp="2022-04-23T02:53:39" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_2_API_31(AVD) - 12" />
+    <property name="flavor" value="" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="test_Scrolling" classname="com.example.storyapp.view.ui.MainActivityTest" time="1.668" />
+  <testcase name="test_CheckingRecyclerViewVisible" classname="com.example.storyapp.view.ui.MainActivityTest" time="0.438" />
+  <testcase name="test_ScrollAndNavToDetail" classname="com.example.storyapp.view.ui.MainActivityTest" time="1.964" />
+</testsuite>

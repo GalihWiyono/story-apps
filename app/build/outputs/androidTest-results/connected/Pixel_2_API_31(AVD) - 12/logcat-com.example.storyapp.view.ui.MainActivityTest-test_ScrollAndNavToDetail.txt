@@ -1,0 +1,258 @@
+04-23 09:53:37.835  5016  5039 I TestRunner: started: test_ScrollAndNavToDetail(com.example.storyapp.view.ui.MainActivityTest)
+04-23 09:53:37.845  5016  5039 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+04-23 09:53:37.846  1232  1232 I GsaVoiceInteractionSrv: Handling ACTION_START_HOTWORD
+04-23 09:53:37.846  1232  1232 I GsaVoiceInteractionSrv: disregardVoiceMatch: false
+04-23 09:53:37.846  1232  1232 I GsaVoiceInteractionSrv: Cannot start hotword, hotword has been explicitly disabled.
+04-23 09:53:37.848   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f678d000 0x3f6f76000]
+04-23 09:53:37.853   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f6f76000 0x3f775f000]
+04-23 09:53:37.855   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f54e2000 0x3f5ccb000]
+04-23 09:53:37.869   406   406 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+04-23 09:53:37.873  1372  1608 I OpenGLRenderer: Davey! duration=34272ms; Flags=1, FrameTimelineVsyncId=1928, IntendedVsync=104974558204, Vsync=104974558204, InputEventId=0, HandleInputStart=104980192000, AnimationStart=104980209500, PerformTraversalsStart=104980232300, DrawStart=104988302800, FrameDeadline=105007891536, FrameInterval=104980181700, FrameStartTime=16666666, SyncQueued=104988482200, SyncStart=104989427200, IssueDrawCommandsStart=104989510300, SwapBuffers=104989990700, FrameCompleted=139248242900, DequeueBufferDuration=13400, QueueBufferDuration=1095700, GpuCompleted=139248242900, SwapBuffersCompleted=104994735200, DisplayPresentTime=0,
+04-23 09:53:37.917   529  3702 W InputManager-JNI: Input channel object 'f8eff37 com.example.storyapp.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+04-23 09:53:37.924   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f5ccb000 0x3f64b4000]
+04-23 09:53:37.930   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3fa5f5000 0x3fadde000]
+04-23 09:53:37.931   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3fadde000 0x3fb5c7000]
+04-23 09:53:37.938  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@96acc00 in: PRE_ON_CREATE
+04-23 09:53:37.938  5016  5016 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+04-23 09:53:37.961  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@96acc00 in: CREATED
+04-23 09:53:37.961  5016  5016 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.storyapp.view.ui.MainActivity@96acc00
+04-23 09:53:37.962  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@96acc00 in: STARTED
+04-23 09:53:37.963  5016  5016 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.storyapp.view.ui.MainActivity@96acc00
+04-23 09:53:37.966  5016  5016 D token   : load: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ1c2VyLTJ5cUFnSkZvUjI4M3B1c3AiLCJpYXQiOjE2NTA2ODI0MDV9.B-Nzb4BQ8bSF7NQZq8o-h02zTo3tY2xuijkbik5Fzrc
+04-23 09:53:37.971  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@96acc00 in: RESUMED
+04-23 09:53:37.972  5016  5016 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.storyapp.view.ui.MainActivity@96acc00
+04-23 09:53:37.979  5016  5039 W xample.storyap: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (unsupported, reflection, allowed)
+04-23 09:53:37.982  1372  1372 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=63, right=0, bottom=126}
+04-23 09:53:37.982  1372  1372 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=63, right=0, bottom=126}
+04-23 09:53:37.984  5016  5016 D tag     : load: OK
+04-23 09:53:37.985  5016  5016 D token   : load Ga Error: StoriesResponse(listStory=[ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640421912_zbN995g2.jpg, createdAt=2022-04-22T15:13:41.915Z, name=alex, description=tes, id=story-UcvKjq5KKokpPsio), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640398528_EBmAhGmh.jpg, createdAt=2022-04-22T15:13:18.530Z, name=dcoba, description=kHdjdksk, id=story-v322kFIMrdGTSZeD), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640382810_cEmJegRC.jpg, createdAt=2022-04-22T15:13:02.812Z, name=genta, description=haiiiiihshjsabjk, id=story-9cSBOZM7kkkYR_qT), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640342817_56jjLork.jpg, createdAt=2022-04-22T15:12:22.820Z, name=dcoba, description=aisjdus, id=story-HPm5jw4C-AwarOXm), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640333446_L1xjWXGY.jpg, createdAt=2022-04-22T15:12:13.449Z, name=Rifki Adi Pramana 98907, description=kontol, id=story-Pi2_khEQZ4ogB_8f), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640300187_BRZjqhJF.jpg, createdAt=2022-04-22T15:11:40.187Z, name=zendy bramantya alfareza, description=ripki babi, id=story-BndBF97mh6H6z48c), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640264558_vqQjrAae.jpg, createdAt=2022-04-22T15:11:04.561Z, name=test, description=yeus, id=story-F6dHO02IPxZgNjBn), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640256148_xWhOJnD7.jpg, createdAt=2022-04-22T15:10:56.151Z, name=Rifki Adi Pramana 98907, description=s, id=story-1CnnIDvQGQzN-NRo), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640207287_cybiDyil.jpg, createdAt=2022-04-22T15:10:07.289Z, name=gg, description=
+04-23 09:53:37.985  5016  5016 D token   :
+04-23 09:53:37.985  5016  5016 D token   :
+04-23 09:53:37.985  5016  5016 D token   :
+04-23 09:53:37.985  5016  5016 D token   :
+04-23 09:53:37.985  5016  5016 D token   : , id=story-1qTWghFgkGcxIKDw), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640184066_DcMozVoh.jpg, createdAt=2022-04-22T15:09:44.069Z, name=Rifki Adi Pramana 98907, description=jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka , id=story-9HOEsdjNwJdoB1O8)], error=false, message=Stories fetched successfully)
+04-23 09:53:37.988  1232  1232 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+04-23 09:53:37.988  1232  1232 E HwDetectorWithState: a: 3
+04-23 09:53:37.998   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f4cf9000 0x3f54e2000]
+04-23 09:53:38.005   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f64b4000 0x3f6c9d000]
+04-23 09:53:38.008   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f98fc000 0x3fa0e5000]
+04-23 09:53:38.029   529   545 I ActivityTaskManager: Displayed com.example.storyapp/.view.ui.MainActivity: +159ms
+04-23 09:53:38.041   529   790 W InputManager-JNI: Input channel object 'de83bb3 Splash Screen com.example.storyapp.test (client)' was disposed without first being removed with the input manager!
+04-23 09:53:38.047   529   790 D ConnectivityService: requestNetwork for uid/pid:10147/5016 activeRequest: null callbackRequest: 153 [NetworkRequest [ REQUEST id=154, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10147 RequestorUid: 10147 RequestorPkg: com.example.storyapp] ]] callback flags: 0 priority: 2147483647
+04-23 09:53:38.048   529   640 D ConnectivityService: NetReassign [154 : null → 101]
+04-23 09:53:38.049   529   633 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=154, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10147 RequestorUid: 10147 RequestorPkg: com.example.storyapp] ]
+04-23 09:53:38.049   529   633 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=154, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10147 RequestorUid: 10147 RequestorPkg: com.example.storyapp] ]
+04-23 09:53:38.049   529   633 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=154, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10147 RequestorUid: 10147 RequestorPkg: com.example.storyapp] ]
+04-23 09:53:38.057  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+04-23 09:53:38.057  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+04-23 09:53:38.058  4245  4245 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+04-23 09:53:38.072  5016  5026 I xample.storyap: JIT allocated 77KB for compiled code of void android.view.View.<init>(android.content.Context, android.util.AttributeSet, int, int)
+04-23 09:53:38.089  5016  5016 I ViewInteraction: Performing 'actionOnItemAtPosition performing ViewAction: single click on item at position: 3' action on view view.getId() is <2131231102/com.example.storyapp:id/rv_story>
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: Exception in upload method
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: com.google.android.apps.gsa.shared.q.d: Error code: 656394 | null
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.gsa.c.a.n.fZ(SourceFile:1)
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.gsa.k.a.n.fZ(SourceFile:2)
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	at com.google.common.w.a.bv.run(SourceFile:6)
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.a.bt.b(SourceFile:1)
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.a.bw.run(SourceFile:1)
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.g.ab.run(SourceFile:1)
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.g.n.run(SourceFile:2)
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.g.d.run(SourceFile:2)
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	at java.lang.Thread.run(Thread.java:920)
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: Caused by: java.util.concurrent.TimeoutException
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.w.run(SourceFile:2)
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.gsa.k.a.k.run(SourceFile:2)
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.a.bt.b(SourceFile:1)
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.a.bw.run(SourceFile:1)
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.g.r.run(SourceFile:1)
+04-23 09:53:38.128  1372  1611 E cr_CronetUrlRequestContext: 	... 5 more
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: Exception in upload method
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: com.google.android.apps.gsa.shared.q.d: Error code: 656394 | null
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.gsa.c.a.n.fZ(SourceFile:1)
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.gsa.k.a.n.fZ(SourceFile:2)
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	at com.google.common.w.a.bv.run(SourceFile:6)
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.a.bt.b(SourceFile:1)
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.a.bw.run(SourceFile:1)
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.g.ab.run(SourceFile:1)
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.g.n.run(SourceFile:2)
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.g.d.run(SourceFile:2)
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	at java.lang.Thread.run(Thread.java:920)
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: Caused by: java.util.concurrent.TimeoutException
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.w.run(SourceFile:2)
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.gsa.k.a.k.run(SourceFile:2)
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.a.bt.b(SourceFile:1)
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	at com.google.android.apps.gsa.shared.util.c.a.bw.run(SourceFile:1)
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	at com.google.android.libraries.g.r.run(SourceFile:1)
+04-23 09:53:38.128  1372  1612 E cr_CronetUrlRequestContext: 	... 5 more
+04-23 09:53:38.196  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@96acc00 in: PAUSED
+04-23 09:53:38.196  5016  5016 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.storyapp.view.ui.MainActivity@96acc00
+04-23 09:53:38.207   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7e6d000 0x3f7e8c000]
+04-23 09:53:38.211  5016  5067 E FrameEvents: updateAcquireFence: Did not find frame.
+04-23 09:53:38.211   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7e8c000 0x3f7eab000]
+04-23 09:53:38.214   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7e8c000 0x3f7ea5000]
+04-23 09:53:38.217  5016  5067 E FrameEvents: updateAcquireFence: Did not find frame.
+04-23 09:53:38.217   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7ea5000 0x3f7ebe000]
+04-23 09:53:38.218   406   406 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+04-23 09:53:38.225   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7ea5000 0x3f7f00000]
+04-23 09:53:38.229  5016  5067 E FrameEvents: updateAcquireFence: Did not find frame.
+04-23 09:53:38.230   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7f00000 0x3f7f5b000]
+04-23 09:53:38.243  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.DetailActivity@44bae8 in: PRE_ON_CREATE
+04-23 09:53:38.243  5016  5016 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.storyapp/.view.ui.MainActivity }, activity.getIntent()=Intent { cmp=com.example.storyapp/.view.ui.DetailActivity (has extras) }, activity=com.example.storyapp.view.ui.DetailActivity@44bae8
+04-23 09:53:38.263  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.DetailActivity@44bae8 in: CREATED
+04-23 09:53:38.264  5016  5016 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.storyapp/.view.ui.MainActivity }, activity.getIntent()=Intent { cmp=com.example.storyapp/.view.ui.DetailActivity (has extras) }, activity=com.example.storyapp.view.ui.DetailActivity@44bae8
+04-23 09:53:38.265  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.DetailActivity@44bae8 in: STARTED
+04-23 09:53:38.265  5016  5016 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.storyapp/.view.ui.MainActivity }, activity.getIntent()=Intent { cmp=com.example.storyapp/.view.ui.DetailActivity (has extras) }, activity=com.example.storyapp.view.ui.DetailActivity@44bae8
+04-23 09:53:38.269  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.DetailActivity@44bae8 in: RESUMED
+04-23 09:53:38.269  5016  5016 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.storyapp/.view.ui.MainActivity }, activity.getIntent()=Intent { cmp=com.example.storyapp/.view.ui.DetailActivity (has extras) }, activity=com.example.storyapp.view.ui.DetailActivity@44bae8
+04-23 09:53:38.298   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f47e9000]
+04-23 09:53:38.300   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f54e2000 0x3f5ccb000]
+04-23 09:53:38.301   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f5ccb000 0x3f64b4000]
+04-23 09:53:38.320  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+04-23 09:53:38.320  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+04-23 09:53:38.321  4245  4245 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+04-23 09:53:38.329  5016  5016 D ViewRootImpl[DetailActivity]: changeCanvasOpacity: opaque=true
+04-23 09:53:38.353   529   545 I ActivityTaskManager: Displayed com.example.storyapp/.view.ui.DetailActivity: +168ms
+04-23 09:53:38.393  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@96acc00 in: STOPPED
+04-23 09:53:38.393  5016  5016 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.storyapp.view.ui.MainActivity@96acc00
+04-23 09:53:38.398  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+04-23 09:53:38.398  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+04-23 09:53:38.399  4245  4245 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+04-23 09:53:38.625  5016  5016 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "story-HPm5jw4C-AwarOXm"}' assertion on view view.getId() is <2131231224/com.example.storyapp:id/tv_id>
+04-23 09:53:38.628  5016  5016 I ViewInteraction: Performing 'send keyCode: 4, metaState: 0 key event' action on view view.getRootView() to equal view
+04-23 09:53:38.636  5016  5016 D ViewRootImpl[DetailActivity]: changeCanvasOpacity: opaque=false
+04-23 09:53:38.661  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@96acc00 in: RESTARTED
+04-23 09:53:38.661  5016  5016 V ActivityScenario: Update currentActivityStage to RESTARTED, currentActivity=com.example.storyapp.view.ui.MainActivity@96acc00
+04-23 09:53:38.662  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@96acc00 in: STARTED
+04-23 09:53:38.662  5016  5016 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.storyapp.view.ui.MainActivity@96acc00
+04-23 09:53:38.664   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7f00000 0x3f7f1f000]
+04-23 09:53:38.667  5016  5067 E FrameEvents: updateAcquireFence: Did not find frame.
+04-23 09:53:38.667   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7f1f000 0x3f7f3e000]
+04-23 09:53:38.671   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7f1f000 0x3f7f38000]
+04-23 09:53:38.676  5016  5067 E FrameEvents: updateAcquireFence: Did not find frame.
+04-23 09:53:38.677   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7f38000 0x3f7f51000]
+04-23 09:53:38.680   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7f38000 0x3f7f93000]
+04-23 09:53:38.683  5016  5067 E FrameEvents: updateAcquireFence: Did not find frame.
+04-23 09:53:38.683   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7f93000 0x3f7fee000]
+04-23 09:53:38.694   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f4cf9000 0x3f54e2000]
+04-23 09:53:38.696   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f64b4000 0x3f6c9d000]
+04-23 09:53:38.698   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f98fc000 0x3fa0e5000]
+04-23 09:53:38.721  5016  5016 D ViewRootImpl[DetailActivity]: changeCanvasOpacity: opaque=false
+04-23 09:53:38.804   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3fa5f5000 0x3fab05000]
+04-23 09:53:38.822  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.DetailActivity@44bae8 in: PAUSED
+04-23 09:53:38.822  5016  5016 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.storyapp/.view.ui.MainActivity }, activity.getIntent()=Intent { cmp=com.example.storyapp/.view.ui.DetailActivity (has extras) }, activity=com.example.storyapp.view.ui.DetailActivity@44bae8
+04-23 09:53:38.833  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@96acc00 in: RESUMED
+04-23 09:53:38.833  5016  5016 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.storyapp.view.ui.MainActivity@96acc00
+04-23 09:53:38.838  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.DetailActivity@44bae8 in: STOPPED
+04-23 09:53:38.838  5016  5016 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.storyapp/.view.ui.MainActivity }, activity.getIntent()=Intent { cmp=com.example.storyapp/.view.ui.DetailActivity (has extras) }, activity=com.example.storyapp.view.ui.DetailActivity@44bae8
+04-23 09:53:38.840  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.DetailActivity@44bae8 in: DESTROYED
+04-23 09:53:38.840  5016  5016 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.storyapp/.view.ui.MainActivity }, activity.getIntent()=Intent { cmp=com.example.storyapp/.view.ui.DetailActivity (has extras) }, activity=com.example.storyapp.view.ui.DetailActivity@44bae8
+04-23 09:53:38.844   529  3702 W InputManager-JNI: Input channel object 'b6a5c65 com.example.storyapp/com.example.storyapp.view.ui.DetailActivity (client)' was disposed without first being removed with the input manager!
+04-23 09:53:38.857  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+04-23 09:53:38.857  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+04-23 09:53:38.858  4245  4245 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+04-23 09:53:38.889  5016  5016 I ViewInteraction: Performing 'actionOnItemAtPosition performing ViewAction: single click on item at position: 1' action on view view.getId() is <2131231102/com.example.storyapp:id/rv_story>
+04-23 09:53:38.958  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@96acc00 in: PAUSED
+04-23 09:53:38.959  5016  5016 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.storyapp.view.ui.MainActivity@96acc00
+04-23 09:53:38.972   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7f93000 0x3f7fb2000]
+04-23 09:53:38.977  5016  5067 E FrameEvents: updateAcquireFence: Did not find frame.
+04-23 09:53:38.978   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7fb2000 0x3f7fd1000]
+04-23 09:53:38.981   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7fb2000 0x3f7fcb000]
+04-23 09:53:38.985  5016  5067 E FrameEvents: updateAcquireFence: Did not find frame.
+04-23 09:53:38.985   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7fcb000 0x3f7fe4000]
+04-23 09:53:38.985   406   406 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+04-23 09:53:38.992   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7ab3000 0x3f7b0e000]
+04-23 09:53:38.996  5016  5067 E FrameEvents: updateAcquireFence: Did not find frame.
+04-23 09:53:38.996   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7b0e000 0x3f7b69000]
+04-23 09:53:39.004  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.DetailActivity@107b57d in: PRE_ON_CREATE
+04-23 09:53:39.004  5016  5016 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.storyapp/.view.ui.MainActivity }, activity.getIntent()=Intent { cmp=com.example.storyapp/.view.ui.DetailActivity (has extras) }, activity=com.example.storyapp.view.ui.DetailActivity@107b57d
+04-23 09:53:39.025  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.DetailActivity@107b57d in: CREATED
+04-23 09:53:39.026  5016  5016 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.storyapp/.view.ui.MainActivity }, activity.getIntent()=Intent { cmp=com.example.storyapp/.view.ui.DetailActivity (has extras) }, activity=com.example.storyapp.view.ui.DetailActivity@107b57d
+04-23 09:53:39.027  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.DetailActivity@107b57d in: STARTED
+04-23 09:53:39.027  5016  5016 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.storyapp/.view.ui.MainActivity }, activity.getIntent()=Intent { cmp=com.example.storyapp/.view.ui.DetailActivity (has extras) }, activity=com.example.storyapp.view.ui.DetailActivity@107b57d
+04-23 09:53:39.032  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.DetailActivity@107b57d in: RESUMED
+04-23 09:53:39.032  5016  5016 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.storyapp/.view.ui.MainActivity }, activity.getIntent()=Intent { cmp=com.example.storyapp/.view.ui.DetailActivity (has extras) }, activity=com.example.storyapp.view.ui.DetailActivity@107b57d
+04-23 09:53:39.063   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f47e9000]
+04-23 09:53:39.066   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f54e2000 0x3f5ccb000]
+04-23 09:53:39.068   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f5ccb000 0x3f64b4000]
+04-23 09:53:39.079  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+04-23 09:53:39.080  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+04-23 09:53:39.080  4245  4245 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+04-23 09:53:39.088  5016  5016 D ViewRootImpl[DetailActivity]: changeCanvasOpacity: opaque=true
+04-23 09:53:39.104   529   545 I ActivityTaskManager: Displayed com.example.storyapp/.view.ui.DetailActivity: +154ms
+04-23 09:53:39.128  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@96acc00 in: STOPPED
+04-23 09:53:39.128  5016  5016 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.storyapp.view.ui.MainActivity@96acc00
+04-23 09:53:39.145  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+04-23 09:53:39.145  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+04-23 09:53:39.146  4245  4245 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+04-23 09:53:39.364  5016  5016 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "story-v322kFIMrdGTSZeD"}' assertion on view view.getId() is <2131231224/com.example.storyapp:id/tv_id>
+04-23 09:53:39.365  5016  5016 I ViewInteraction: Performing 'send keyCode: 4, metaState: 0 key event' action on view view.getRootView() to equal view
+04-23 09:53:39.373  5016  5016 D ViewRootImpl[DetailActivity]: changeCanvasOpacity: opaque=false
+04-23 09:53:39.395  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@96acc00 in: RESTARTED
+04-23 09:53:39.395  5016  5016 V ActivityScenario: Update currentActivityStage to RESTARTED, currentActivity=com.example.storyapp.view.ui.MainActivity@96acc00
+04-23 09:53:39.396  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@96acc00 in: STARTED
+04-23 09:53:39.396  5016  5016 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.storyapp.view.ui.MainActivity@96acc00
+04-23 09:53:39.399   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7fcb000 0x3f7fea000]
+04-23 09:53:39.402  5016  5067 E FrameEvents: updateAcquireFence: Did not find frame.
+04-23 09:53:39.402   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7b0e000 0x3f7b2d000]
+04-23 09:53:39.409   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7b0e000 0x3f7b27000]
+04-23 09:53:39.413  5016  5067 E FrameEvents: updateAcquireFence: Did not find frame.
+04-23 09:53:39.413   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7b27000 0x3f7b40000]
+04-23 09:53:39.415   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7b27000 0x3f7b82000]
+04-23 09:53:39.425  5016  5067 E FrameEvents: updateAcquireFence: Did not find frame.
+04-23 09:53:39.425   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f7b82000 0x3f7bdd000]
+04-23 09:53:39.436   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f4cf9000 0x3f54e2000]
+04-23 09:53:39.441   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f64b4000 0x3f6c9d000]
+04-23 09:53:39.442   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f98fc000 0x3fa0e5000]
+04-23 09:53:39.477  5016  5016 D ViewRootImpl[DetailActivity]: changeCanvasOpacity: opaque=false
+04-23 09:53:39.554   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3fab05000 0x3fb015000]
+04-23 09:53:39.572  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.DetailActivity@107b57d in: PAUSED
+04-23 09:53:39.572  5016  5016 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.storyapp/.view.ui.MainActivity }, activity.getIntent()=Intent { cmp=com.example.storyapp/.view.ui.DetailActivity (has extras) }, activity=com.example.storyapp.view.ui.DetailActivity@107b57d
+04-23 09:53:39.580  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@96acc00 in: RESUMED
+04-23 09:53:39.580  5016  5016 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.storyapp.view.ui.MainActivity@96acc00
+04-23 09:53:39.584  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.DetailActivity@107b57d in: STOPPED
+04-23 09:53:39.585  5016  5016 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.storyapp/.view.ui.MainActivity }, activity.getIntent()=Intent { cmp=com.example.storyapp/.view.ui.DetailActivity (has extras) }, activity=com.example.storyapp.view.ui.DetailActivity@107b57d
+04-23 09:53:39.586  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.DetailActivity@107b57d in: DESTROYED
+04-23 09:53:39.586  5016  5016 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.storyapp/.view.ui.MainActivity }, activity.getIntent()=Intent { cmp=com.example.storyapp/.view.ui.DetailActivity (has extras) }, activity=com.example.storyapp.view.ui.DetailActivity@107b57d
+04-23 09:53:39.587   406   406 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+04-23 09:53:39.594   529  3702 W InputManager-JNI: Input channel object '1958dcb com.example.storyapp/com.example.storyapp.view.ui.DetailActivity (client)' was disposed without first being removed with the input manager!
+04-23 09:53:39.624  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+04-23 09:53:39.625  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+04-23 09:53:39.625  4245  4245 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+04-23 09:53:39.656  5016  5016 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231102/com.example.storyapp:id/rv_story>
+04-23 09:53:39.664  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@96acc00 in: PAUSED
+04-23 09:53:39.664  5016  5016 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.storyapp.view.ui.MainActivity@96acc00
+04-23 09:53:39.687   406   406 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+04-23 09:53:39.693   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f47e9000]
+04-23 09:53:39.695   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f54e2000 0x3f5ccb000]
+04-23 09:53:39.696   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f5ccb000 0x3f64b4000]
+04-23 09:53:39.732   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3fb015000 0x3fb7fe000]
+04-23 09:53:39.733   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f8000000 0x3f87e9000]
+04-23 09:53:39.735   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3fd7bb000 0x3fdfa4000]
+04-23 09:53:39.744   529   545 I ActivityTaskManager: Displayed com.example.storyapp.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +60ms
+04-23 09:53:39.750   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f54e2000 0x3f59f2000]
+04-23 09:53:39.762   529  2495 W InputManager-JNI: Input channel object 'b2d44dd com.example.storyapp.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+04-23 09:53:39.780  1372  1372 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=63, right=0, bottom=126}
+04-23 09:53:39.780  1372  1372 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=63, right=0, bottom=126}
+04-23 09:53:39.781   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f47e9000]
+04-23 09:53:39.785   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f59f2000 0x3f61db000]
+04-23 09:53:39.787   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f98fc000 0x3fa0e5000]
+04-23 09:53:39.788  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@96acc00 in: STOPPED
+04-23 09:53:39.789  5016  5016 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.storyapp.view.ui.MainActivity@96acc00
+04-23 09:53:39.793  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@96acc00 in: DESTROYED
+04-23 09:53:39.793  5016  5016 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+04-23 09:53:39.797  1232  1232 I GsaVoiceInteractionSrv: Handling ACTION_START_HOTWORD
+04-23 09:53:39.798  1232  1232 I GsaVoiceInteractionSrv: disregardVoiceMatch: false
+04-23 09:53:39.798  1232  1232 I GsaVoiceInteractionSrv: Cannot start hotword, hotword has been explicitly disabled.
+04-23 09:53:39.800   694   711 W System  : A resource failed to call close.
+04-23 09:53:39.800   694   711 W System  : A resource failed to call close.
+04-23 09:53:39.800   694   711 W System  : A resource failed to call close.
+04-23 09:53:39.801   694   711 W System  : A resource failed to call close.
+04-23 09:53:39.801  5016  5039 I TestRunner: finished: test_ScrollAndNavToDetail(com.example.storyapp.view.ui.MainActivityTest)

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.storyapp.model.repo.UserRepositoryTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-04-23T02:51:10" hostname="LAPTOP-13CO7K1R" time="0.026">
+  <properties/>
+  <testcase name="Should Not Null and Return as Expected when userRegister Success" classname="com.example.storyapp.model.repo.UserRepositoryTest" time="0.02"/>
+  <testcase name="Should Not Null and Return as Expected when Call loginData" classname="com.example.storyapp.model.repo.UserRepositoryTest" time="0.003"/>
+  <testcase name="Should Not Null and Return as Expected when userLogin Success" classname="com.example.storyapp.model.repo.UserRepositoryTest" time="0.001"/>
+  <testcase name="Should Not Null and Return as Expected when Call isLoading" classname="com.example.storyapp.model.repo.UserRepositoryTest" time="0.001"/>
+  <testcase name="Should Not Null and Return as Expected when Call userStatus" classname="com.example.storyapp.model.repo.UserRepositoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.storyapp.viewmodel.StoryViewModelTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-04-23T02:51:10" hostname="LAPTOP-13CO7K1R" time="0.038">
+  <properties/>
+  <testcase name="verify uploadStory" classname="com.example.storyapp.viewmodel.StoryViewModelTest" time="0.028"/>
+  <testcase name="Should Not Null and Return as Expected when call dataStoryWithLocation" classname="com.example.storyapp.viewmodel.StoryViewModelTest" time="0.001"/>
+  <testcase name="Should Not Null and Return as Expected when call responseUpload" classname="com.example.storyapp.viewmodel.StoryViewModelTest" time="0.002"/>
+  <testcase name="verify getStoryWithLocation" classname="com.example.storyapp.viewmodel.StoryViewModelTest" time="0.001"/>
+  <testcase name="Should Not Null and Return as Expected when call allStory" classname="com.example.storyapp.viewmodel.StoryViewModelTest" time="0.003"/>
+  <testcase name="Should Not Null and Return as Expected when call isLoading" classname="com.example.storyapp.viewmodel.StoryViewModelTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

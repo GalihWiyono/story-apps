@@ -1,0 +1,96 @@
+{
+  "error": false,
+  "message": "Stories fetched successfully",
+  "listStory": [
+    {
+      "id": "story-UcvKjq5KKokpPsio",
+      "name": "alex",
+      "description": "tes",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650640421912_zbN995g2.jpg",
+      "createdAt": "2022-04-22T15:13:41.915Z",
+      "lat": -6.367656,
+      "lon": 106.68682
+    },
+    {
+      "id": "story-v322kFIMrdGTSZeD",
+      "name": "dcoba",
+      "description": "kHdjdksk",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650640398528_EBmAhGmh.jpg",
+      "createdAt": "2022-04-22T15:13:18.530Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-9cSBOZM7kkkYR_qT",
+      "name": "genta",
+      "description": "haiiiiihshjsabjk",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650640382810_cEmJegRC.jpg",
+      "createdAt": "2022-04-22T15:13:02.812Z",
+      "lat": -6.562288333333333,
+      "lon": 107.760795
+    },
+    {
+      "id": "story-HPm5jw4C-AwarOXm",
+      "name": "dcoba",
+      "description": "aisjdus",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650640342817_56jjLork.jpg",
+      "createdAt": "2022-04-22T15:12:22.820Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-Pi2_khEQZ4ogB_8f",
+      "name": "Rifki Adi Pramana 98907",
+      "description": "kontol",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650640333446_L1xjWXGY.jpg",
+      "createdAt": "2022-04-22T15:12:13.449Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-BndBF97mh6H6z48c",
+      "name": "zendy bramantya alfareza",
+      "description": "ripki babi",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650640300187_BRZjqhJF.jpg",
+      "createdAt": "2022-04-22T15:11:40.187Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-F6dHO02IPxZgNjBn",
+      "name": "test",
+      "description": "yeus",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650640264558_vqQjrAae.jpg",
+      "createdAt": "2022-04-22T15:11:04.561Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-1CnnIDvQGQzN-NRo",
+      "name": "Rifki Adi Pramana 98907",
+      "description": "s",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650640256148_xWhOJnD7.jpg",
+      "createdAt": "2022-04-22T15:10:56.151Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-1qTWghFgkGcxIKDw",
+      "name": "gg",
+      "description": "\n\n\n\n\n",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650640207287_cybiDyil.jpg",
+      "createdAt": "2022-04-22T15:10:07.289Z",
+      "lat": 39.0401366154212,
+      "lon": 39.0401366154212
+    },
+    {
+      "id": "story-9HOEsdjNwJdoB1O8",
+      "name": "Rifki Adi Pramana 98907",
+      "description": "jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka ",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650640184066_DcMozVoh.jpg",
+      "createdAt": "2022-04-22T15:09:44.069Z",
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

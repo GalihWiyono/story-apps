@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.storyapp.viewmodel.UserViewModelTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-04-23T02:51:10" hostname="LAPTOP-13CO7K1R" time="0.025">
+  <properties/>
+  <testcase name="verify clearUserPreference" classname="com.example.storyapp.viewmodel.UserViewModelTest" time="0.02"/>
+  <testcase name="verify saveUserPreference" classname="com.example.storyapp.viewmodel.UserViewModelTest" time="0.0"/>
+  <testcase name="Should Not Null and Return as Expected  when Call loginResult" classname="com.example.storyapp.viewmodel.UserViewModelTest" time="0.001"/>
+  <testcase name="Should Not Null and Return as Expected  when Call userStatus" classname="com.example.storyapp.viewmodel.UserViewModelTest" time="0.001"/>
+  <testcase name="verify userRegister" classname="com.example.storyapp.viewmodel.UserViewModelTest" time="0.0"/>
+  <testcase name="verify userLogin" classname="com.example.storyapp.viewmodel.UserViewModelTest" time="0.001"/>
+  <testcase name="Should Not Null and Return as Expected when getUserPreference Success" classname="com.example.storyapp.viewmodel.UserViewModelTest" time="0.0"/>
+  <testcase name="Should Not Null and Return as Expected  when Call isLoading" classname="com.example.storyapp.viewmodel.UserViewModelTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

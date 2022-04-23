@@ -1,0 +1,65 @@
+04-23 09:53:37.383  5016  5039 I TestRunner: started: test_CheckingRecyclerViewVisible(com.example.storyapp.view.ui.MainActivityTest)
+04-23 09:53:37.392  5016  5039 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+04-23 09:53:37.399   529   790 W InputManager-JNI: Input channel object 'ad06460 com.example.storyapp.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+04-23 09:53:37.409   694   804 D EGL_emulation: app_time_stats: avg=772.60ms min=15.44ms max=1529.76ms count=2
+04-23 09:53:37.411   694   804 D EGL_emulation: app_time_stats: avg=1549.77ms min=1549.77ms max=1549.77ms count=1
+04-23 09:53:37.419  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+04-23 09:53:37.419  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+04-23 09:53:37.421  4245  4245 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+04-23 09:53:37.434   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f47e9000]
+04-23 09:53:37.436   406   406 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+04-23 09:53:37.441   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f47e9000 0x3f4fd2000]
+04-23 09:53:37.444   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f98fc000 0x3fa0e5000]
+04-23 09:53:37.457  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@b12a3e2 in: PRE_ON_CREATE
+04-23 09:53:37.457  5016  5016 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+04-23 09:53:37.483  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@b12a3e2 in: CREATED
+04-23 09:53:37.484  5016  5016 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.storyapp.view.ui.MainActivity@b12a3e2
+04-23 09:53:37.489  1372  1372 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=63, right=0, bottom=126}
+04-23 09:53:37.490  1372  1372 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=63, right=0, bottom=126}
+04-23 09:53:37.492  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@b12a3e2 in: STARTED
+04-23 09:53:37.493  5016  5016 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.storyapp.view.ui.MainActivity@b12a3e2
+04-23 09:53:37.499  5016  5016 D token   : load: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ1c2VyLTJ5cUFnSkZvUjI4M3B1c3AiLCJpYXQiOjE2NTA2ODI0MDV9.B-Nzb4BQ8bSF7NQZq8o-h02zTo3tY2xuijkbik5Fzrc
+04-23 09:53:37.511  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@b12a3e2 in: RESUMED
+04-23 09:53:37.511  5016  5016 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.storyapp.view.ui.MainActivity@b12a3e2
+04-23 09:53:37.529  1232  1232 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+04-23 09:53:37.530  1232  1232 E HwDetectorWithState: a: 3
+04-23 09:53:37.536   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f57bb000 0x3f5fa4000]
+04-23 09:53:37.546   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f678d000 0x3f6f76000]
+04-23 09:53:37.548   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f6f76000 0x3f775f000]
+04-23 09:53:37.559   529   545 I ActivityTaskManager: Displayed com.example.storyapp/.view.ui.MainActivity: +157ms
+04-23 09:53:37.565  5016  5016 D tag     : load: OK
+04-23 09:53:37.565  5016  5016 D token   : load Ga Error: StoriesResponse(listStory=[ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640421912_zbN995g2.jpg, createdAt=2022-04-22T15:13:41.915Z, name=alex, description=tes, id=story-UcvKjq5KKokpPsio), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640398528_EBmAhGmh.jpg, createdAt=2022-04-22T15:13:18.530Z, name=dcoba, description=kHdjdksk, id=story-v322kFIMrdGTSZeD), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640382810_cEmJegRC.jpg, createdAt=2022-04-22T15:13:02.812Z, name=genta, description=haiiiiihshjsabjk, id=story-9cSBOZM7kkkYR_qT), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640342817_56jjLork.jpg, createdAt=2022-04-22T15:12:22.820Z, name=dcoba, description=aisjdus, id=story-HPm5jw4C-AwarOXm), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640333446_L1xjWXGY.jpg, createdAt=2022-04-22T15:12:13.449Z, name=Rifki Adi Pramana 98907, description=kontol, id=story-Pi2_khEQZ4ogB_8f), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640300187_BRZjqhJF.jpg, createdAt=2022-04-22T15:11:40.187Z, name=zendy bramantya alfareza, description=ripki babi, id=story-BndBF97mh6H6z48c), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640264558_vqQjrAae.jpg, createdAt=2022-04-22T15:11:04.561Z, name=test, description=yeus, id=story-F6dHO02IPxZgNjBn), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640256148_xWhOJnD7.jpg, createdAt=2022-04-22T15:10:56.151Z, name=Rifki Adi Pramana 98907, description=s, id=story-1CnnIDvQGQzN-NRo), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640207287_cybiDyil.jpg, createdAt=2022-04-22T15:10:07.289Z, name=gg, description=
+04-23 09:53:37.565  5016  5016 D token   :
+04-23 09:53:37.565  5016  5016 D token   :
+04-23 09:53:37.565  5016  5016 D token   :
+04-23 09:53:37.565  5016  5016 D token   :
+04-23 09:53:37.565  5016  5016 D token   : , id=story-1qTWghFgkGcxIKDw), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650640184066_DcMozVoh.jpg, createdAt=2022-04-22T15:09:44.069Z, name=Rifki Adi Pramana 98907, description=jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka jendi azka , id=story-9HOEsdjNwJdoB1O8)], error=false, message=Stories fetched successfully)
+04-23 09:53:37.575   529  1713 W InputManager-JNI: Input channel object '2432bf0 Splash Screen com.example.storyapp.test (client)' was disposed without first being removed with the input manager!
+04-23 09:53:37.596   529  1713 D ConnectivityService: requestNetwork for uid/pid:10147/5016 activeRequest: null callbackRequest: 151 [NetworkRequest [ REQUEST id=152, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10147 RequestorUid: 10147 RequestorPkg: com.example.storyapp] ]] callback flags: 0 priority: 2147483647
+04-23 09:53:37.597   529   640 D ConnectivityService: NetReassign [152 : null → 101]
+04-23 09:53:37.600   529   633 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=152, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10147 RequestorUid: 10147 RequestorPkg: com.example.storyapp] ]
+04-23 09:53:37.600   529   633 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=152, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10147 RequestorUid: 10147 RequestorPkg: com.example.storyapp] ]
+04-23 09:53:37.600   529   633 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=152, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10147 RequestorUid: 10147 RequestorPkg: com.example.storyapp] ]
+04-23 09:53:37.608  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+04-23 09:53:37.609  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+04-23 09:53:37.610  4245  4245 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+04-23 09:53:37.661  5016  5016 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231102/com.example.storyapp:id/rv_story>
+04-23 09:53:37.688  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@b12a3e2 in: PAUSED
+04-23 09:53:37.688  5016  5016 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.storyapp.view.ui.MainActivity@b12a3e2
+04-23 09:53:37.720   406   406 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+04-23 09:53:37.725   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f47e9000]
+04-23 09:53:37.729   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f47e9000 0x3f4fd2000]
+04-23 09:53:37.729   345   345 D goldfish-address-space: claimShared: Ask to claim region [0x3f4fd2000 0x3f57bb000]
+04-23 09:53:37.777   345   345 D goldfish-address-space: claimShared: Ask to claim region [0x3f98fc000 0x3fa0e5000]
+04-23 09:53:37.778   345   345 D goldfish-address-space: claimShared: Ask to claim region [0x3fadde000 0x3fb5c7000]
+04-23 09:53:37.779   345   345 D goldfish-address-space: claimShared: Ask to claim region [0x3f8000000 0x3f87e9000]
+04-23 09:53:37.790   529   545 I ActivityTaskManager: Displayed com.example.storyapp.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +78ms
+04-23 09:53:37.793   345   345 D goldfish-address-space: claimShared: Ask to claim region [0x3f47e9000 0x3f4cf9000]
+04-23 09:53:37.803   529  2495 W InputManager-JNI: Input channel object 'ee368e5 com.example.storyapp.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+04-23 09:53:37.817  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@b12a3e2 in: STOPPED
+04-23 09:53:37.817  5016  5016 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.storyapp.view.ui.MainActivity@b12a3e2
+04-23 09:53:37.824  1372  1372 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=63, right=0, bottom=126}
+04-23 09:53:37.824  1372  1372 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=63, right=0, bottom=126}
+04-23 09:53:37.825  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@b12a3e2 in: DESTROYED
+04-23 09:53:37.825  5016  5016 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+04-23 09:53:37.825  5016  5039 I TestRunner: finished: test_CheckingRecyclerViewVisible(com.example.storyapp.view.ui.MainActivityTest)

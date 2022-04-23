@@ -1,0 +1,158 @@
+04-23 09:53:35.682  5016  5039 I TestRunner: started: test_Scrolling(com.example.storyapp.view.ui.MainActivityTest)
+04-23 09:53:35.781  5016  5039 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+04-23 09:53:35.785  5016  5039 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10147; state: ENABLED
+04-23 09:53:35.802   329   329 D Zygote  : Forked child process 5041
+04-23 09:53:35.807  5041  5041 I e.storyapp.tes: Late-enabling -Xcheck:jni
+04-23 09:53:35.819   406   406 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+04-23 09:53:35.820  5041  5041 W e.storyapp.tes: Unexpected CPU variant for X86 using defaults: x86_64
+04-23 09:53:35.824   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3fa0e5000 0x3fa8ce000]
+04-23 09:53:35.827   429   450 I adbd    : jdwp connection from 5041
+04-23 09:53:35.829   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3fa8ce000 0x3fb0b7000]
+04-23 09:53:35.830   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3fb0b7000 0x3fb8a0000]
+04-23 09:53:35.842   963  1464 D EGL_emulation: app_time_stats: avg=1099.70ms min=1099.70ms max=1099.70ms count=1
+04-23 09:53:35.861   694   804 D EGL_emulation: app_time_stats: avg=589.25ms min=3.98ms max=4601.67ms count=8
+04-23 09:53:35.863  5041  5041 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10148; state: ENABLED
+04-23 09:53:35.864   694   804 D EGL_emulation: app_time_stats: avg=594.83ms min=11.06ms max=4602.33ms count=8
+04-23 09:53:35.872  5041  5041 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+04-23 09:53:35.875  5041  5041 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+04-23 09:53:35.877  5041  5041 W e.storyapp.tes: ClassLoaderContext shared library size mismatch. Expected=0, found=2 (PCL[] | PCL[]{PCL[/system/framework/android.test.base.jar*3790657674]#PCL[/system/framework/android.test.mock.jar*2265025959]})
+04-23 09:53:35.877  1372  1372 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=63, right=0, bottom=126}
+04-23 09:53:35.877  1372  1372 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=63, right=0, bottom=126}
+04-23 09:53:35.907   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f78b8000 0x3f7ab3000]
+04-23 09:53:35.909  1232  1232 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+04-23 09:53:35.909  1232  1232 E HwDetectorWithState: a: 3
+04-23 09:53:35.912   529  4716 D HostConnection: createUnique: call
+04-23 09:53:35.913   529  4716 D HostConnection: HostConnection::get() New Host Connection established 0x7248a26e9cd0, tid 4716
+04-23 09:53:35.917   529  4716 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+04-23 09:53:35.917   529  4716 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+04-23 09:53:35.918   529  4716 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+04-23 09:53:35.927   529  4716 D EGL_emulation: eglCreateContext: 0x7248a26ee650: maj 2 min 0 rcv 2
+04-23 09:53:35.945   529  4716 D EGL_emulation: eglMakeCurrent: 0x7248a26ee650: ver 2 0 (tinfo 0x724aaae21100) (first time)
+04-23 09:53:35.992  5041  5041 V GraphicsEnvironment: ANGLE Developer option for 'com.example.storyapp.test' set to: 'default'
+04-23 09:53:35.992  5041  5041 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+04-23 09:53:35.994  5041  5041 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+04-23 09:53:35.995  5041  5041 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+04-23 09:53:36.041  5041  5066 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+04-23 09:53:36.046  5041  5066 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+04-23 09:53:36.050  5041  5066 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+04-23 09:53:36.104  5016  5069 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+04-23 09:53:36.106  5016  5069 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+04-23 09:53:36.108  5016  5069 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+04-23 09:53:36.175  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@56b5da7 in: PRE_ON_CREATE
+04-23 09:53:36.175  5016  5016 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+04-23 09:53:36.305  5016  5016 W xample.storyap: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+04-23 09:53:36.306  5016  5016 W xample.storyap: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+04-23 09:53:36.391  5016  5016 W xample.storyap: Accessing hidden method Ljava/lang/invoke/MethodHandles$Lookup;-><init>(Ljava/lang/Class;I)V (unsupported, reflection, allowed)
+04-23 09:53:36.452  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@56b5da7 in: CREATED
+04-23 09:53:36.452  5016  5016 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.storyapp.view.ui.MainActivity@56b5da7
+04-23 09:53:36.454  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@56b5da7 in: STARTED
+04-23 09:53:36.454  5016  5016 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.storyapp.view.ui.MainActivity@56b5da7
+04-23 09:53:36.466  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@56b5da7 in: RESUMED
+04-23 09:53:36.466  5016  5016 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.storyapp.view.ui.MainActivity@56b5da7
+04-23 09:53:36.498  5016  5039 D EventInjectionStrategy: Creating injection strategy with input manager.
+04-23 09:53:36.498  5016  5039 W xample.storyap: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+04-23 09:53:36.498  5016  5039 W xample.storyap: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+04-23 09:53:36.498  5016  5039 W xample.storyap: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+04-23 09:53:36.510  5016  5067 D HostConnection: createUnique: call
+04-23 09:53:36.510  5016  5067 D HostConnection: HostConnection::get() New Host Connection established 0x7248a2686e50, tid 5067
+04-23 09:53:36.514  5016  5067 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+04-23 09:53:36.515   191   191 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device VINTF manifest.
+04-23 09:53:36.515  5016  5067 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+04-23 09:53:36.515  5016  5067 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+04-23 09:53:36.523  5016  5067 D EGL_emulation: eglCreateContext: 0x7248a2688410: maj 2 min 0 rcv 2
+04-23 09:53:36.542  5016  5067 D EGL_emulation: eglMakeCurrent: 0x7248a2688410: ver 2 0 (tinfo 0x724abae00080) (first time)
+04-23 09:53:36.545   406   677 E HWComposer: getSupportedContentTypes: getSupportedContentTypes failed for display 4619827259835644672: Unsupported (8)
+04-23 09:53:36.546   191   191 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+04-23 09:53:36.546  5016  5067 I Gralloc4: mapper 4.x is not supported
+04-23 09:53:36.547  5016  5067 D HostConnection: createUnique: call
+04-23 09:53:36.547  5016  5067 D HostConnection: HostConnection::get() New Host Connection established 0x7248a2687390, tid 5067
+04-23 09:53:36.548  5016  5067 D goldfish-address-space: allocate: Ask for block of size 0x100
+04-23 09:53:36.548  5016  5067 D goldfish-address-space: allocate: ioctl allocate returned offset 0x3f3ffe000 size 0x2000
+04-23 09:53:36.549   191   191 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest.
+04-23 09:53:36.549  5016  5067 W Gralloc4: allocator 4.x is not supported
+04-23 09:53:36.550   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f47e9000 0x3f4fd2000]
+04-23 09:53:36.555  5016  5067 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+04-23 09:53:36.556   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f4fd2000 0x3f57bb000]
+04-23 09:53:36.557   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f57bb000 0x3f5fa4000]
+04-23 09:53:36.589   529   545 I ActivityTaskManager: Displayed com.example.storyapp/.view.ui.MainActivity: +801ms
+04-23 09:53:36.606   529  2495 W InputManager-JNI: Input channel object '21f2072 Splash Screen com.example.storyapp.test (client)' was disposed without first being removed with the input manager!
+04-23 09:53:36.659  5016  5016 D token   : load: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ1c2VyLTJ5cUFnSkZvUjI4M3B1c3AiLCJpYXQiOjE2NTA2ODI0MDV9.B-Nzb4BQ8bSF7NQZq8o-h02zTo3tY2xuijkbik5Fzrc
+04-23 09:53:36.681  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+04-23 09:53:36.681  4245  4245 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+04-23 09:53:36.683  4245  4245 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+04-23 09:53:36.699  5016  5016 W xample.storyap: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+04-23 09:53:36.699  5016  5016 W xample.storyap: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+04-23 09:53:36.699  5016  5016 W xample.storyap: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+04-23 09:53:36.802  5016  5016 D tag     : load: OK
+04-23 09:53:36.802  5016  5016 D token   : load Ga Error: StoriesResponse(listStory=[ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650682275749_JBYmpOzl.jpg, createdAt=2022-04-23T02:51:15.751Z, name=Raja, description=OKE, id=story-mf7O-OqcegqOGC79), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650682132714_Wl1eSsbp.jpg, createdAt=2022-04-23T02:48:52.715Z, name=Testing test, description=g, id=story-8EofKzYuFVx7MqaK), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650682118862_efO0aP93.jpg, createdAt=2022-04-23T02:48:38.865Z, name=Testing test, description=depan, id=story-Rv-WxJpv_4NMJX5i), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650682108087_s7Vw__Gr.jpg, createdAt=2022-04-23T02:48:28.088Z, name=reviewer45, description=cam, id=story-DdGm7wmCfemAUV8s), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650682091264_3o_kH-3v.jpg, createdAt=2022-04-23T02:48:11.277Z, name=Testing test, description=ajsbsjs, id=story-rpXZZe1RaouH1bRk), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650682085911_-JvU5HZ6.jpg, createdAt=2022-04-23T02:48:05.912Z, name=reviewer45, description=test, id=story-s05SLwNG2E1tQEnv), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650682058927_7FHltc-U.jpg, createdAt=2022-04-23T02:47:38.929Z, name=Testing test, description=ahshjssn, id=story-CYOIs9dAOmfyYP5z), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650681514664_qJfIFAXR.jpg, createdAt=2022-04-23T02:38:34.666Z, name=Testing test, description=uyggvhbb, id=story-Mtu4-fT8z1zQSeFj), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650681421862_nKGDYTr6.jpg, createdAt=2022-04-23T02:37:01.864Z, name=Testing test, description=fggggg, id=story-t-K6bDJydHE_ridg), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650681136255_RjNbuhNF.jpg, createdAt=2022-04-23T02:32:16.256Z, name=NRAP2, description=guud enak, id=story-GCoxS_fQMMjN0E0G), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650681115033_xMVOoaGT.jpg, createdAt=2022-04-23T02:31:55.034Z, name=Guest, description=zjsj, id=story-FC4NxF3O6nd6BmS6), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650681111791_qfvVkKQC.jpg, createdAt=2022-04-23T02:31:51.795Z, name=NRAP2, description=mantab dung, id=story-KB3kcYZ8lbYLU0mK), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650681099848_leSDZQaf.jpg, createdAt=2022-04-23T02:31:39.852Z, name=Guest, description=znzn, id=story-N_cu3kfyexJ_J9_G), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650680594223_UAncKxWd.jpg, createdAt=2022-04-23T02:23:14.225Z, name=hihi, description=sdasdasd, id=story-V93mt4f7pPqKKurZ), ListStoryItem(photoUrl=https://story-api.dicoding.dev/images/stories/photos-1650680244077_cszgIywr.jpg, createdAt=2022-04-23T02:17:24.080Z, name=dd, description=okay, id=story-RD9wLSOwCgWprEOr)], error=false, message=Stories fetched successfully)
+04-23 09:53:36.835  5016  5016 W Glide   : Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored
+04-23 09:53:36.911   529  2495 D ConnectivityService: requestNetwork for uid/pid:10147/5016 activeRequest: null callbackRequest: 149 [NetworkRequest [ REQUEST id=150, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10147 RequestorUid: 10147 RequestorPkg: com.example.storyapp] ]] callback flags: 0 priority: 2147483647
+04-23 09:53:36.912   529   640 D ConnectivityService: NetReassign [150 : null → 101]
+04-23 09:53:36.913   529   633 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=150, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10147 RequestorUid: 10147 RequestorPkg: com.example.storyapp] ]
+04-23 09:53:36.913   529   633 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=150, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10147 RequestorUid: 10147 RequestorPkg: com.example.storyapp] ]
+04-23 09:53:36.913   529   633 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=150, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10147 RequestorUid: 10147 RequestorPkg: com.example.storyapp] ]
+04-23 09:53:36.919  5016  5016 W xample.storyap: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (unsupported, reflection, allowed)
+04-23 09:53:36.919  5016  5016 W xample.storyap: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+04-23 09:53:36.919  5016  5016 W xample.storyap: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+04-23 09:53:36.927  5016  5016 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231102/com.example.storyapp:id/rv_story>
+04-23 09:53:36.930  5016  5016 I ViewInteraction: Performing 'scroll RecyclerView to position: 9' action on view view.getId() is <2131231102/com.example.storyapp:id/rv_story>
+04-23 09:53:36.953  5016  5016 I ViewInteraction: Performing 'scroll RecyclerView to position: 0' action on view view.getId() is <2131231102/com.example.storyapp:id/rv_story>
+04-23 09:53:36.982  1054  1068 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+04-23 09:53:36.983  1054  1068 I FontLog : Query [emojicompat-emoji-font] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+04-23 09:53:36.984  1054  1068 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+04-23 09:53:36.987  1054  1068 I FontLog : Pulling font file for id = 16, cache size = 7 [CONTEXT service_id=132 ]
+04-23 09:53:36.996  1054  1068 I FontLog : Pulling font file for id = 16, cache size = 7 [CONTEXT service_id=132 ]
+04-23 09:53:37.012  5016  5016 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() covers at least <100> percent of the view's area)}' assertion on view view.getId() is <2131231102/com.example.storyapp:id/rv_story>
+04-23 09:53:37.035  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@56b5da7 in: PAUSED
+04-23 09:53:37.039  5016  5016 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.storyapp.view.ui.MainActivity@56b5da7
+04-23 09:53:37.070   406   406 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+04-23 09:53:37.115   406   506 W ServiceManager: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10148 pid=5041
+04-23 09:53:37.115   406   506 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10148 => denied (359 us)
+04-23 09:53:37.115   406   506 W ServiceManager: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10148 pid=5041
+04-23 09:53:37.115   406   506 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10148 => denied (350 us)
+04-23 09:53:37.118  5041  5064 D HostConnection: createUnique: call
+04-23 09:53:37.119  5041  5064 D HostConnection: HostConnection::get() New Host Connection established 0x7248a268df90, tid 5064
+04-23 09:53:37.124  5041  5064 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+04-23 09:53:37.126   191   191 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device VINTF manifest.
+04-23 09:53:37.126  5041  5064 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+04-23 09:53:37.126  5041  5064 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+04-23 09:53:37.139  5041  5064 D EGL_emulation: eglCreateContext: 0x7248a268d510: maj 2 min 0 rcv 2
+04-23 09:53:37.161  5041  5064 D EGL_emulation: eglMakeCurrent: 0x7248a268d510: ver 2 0 (tinfo 0x724ac0c2f080) (first time)
+04-23 09:53:37.164   406   506 E HWComposer: getSupportedContentTypes: getSupportedContentTypes failed for display 4619827259835644672: Unsupported (8)
+04-23 09:53:37.165   191   191 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+04-23 09:53:37.165  5041  5064 I Gralloc4: mapper 4.x is not supported
+04-23 09:53:37.166  5041  5064 D HostConnection: createUnique: call
+04-23 09:53:37.166  5041  5064 D HostConnection: HostConnection::get() New Host Connection established 0x7248a268f6d0, tid 5064
+04-23 09:53:37.166  5041  5064 D goldfish-address-space: allocate: Ask for block of size 0x100
+04-23 09:53:37.166  5041  5064 D goldfish-address-space: allocate: ioctl allocate returned offset 0x3f3ffe000 size 0x2000
+04-23 09:53:37.167   191   191 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest.
+04-23 09:53:37.167  5041  5064 W Gralloc4: allocator 4.x is not supported
+04-23 09:53:37.169   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f5fa4000 0x3f678d000]
+04-23 09:53:37.184  5041  5064 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+04-23 09:53:37.241   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3fa0e5000 0x3fa8ce000]
+04-23 09:53:37.242   345   345 D goldfish-address-space: claimShared: Ask to claim region [0x3fa8ce000 0x3fb0b7000]
+04-23 09:53:37.292   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3fb0b7000 0x3fb8a0000]
+04-23 09:53:37.294   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3fd7bb000 0x3fdfa4000]
+04-23 09:53:37.295   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3fdfa4000 0x3fe78d000]
+04-23 09:53:37.302   529   545 I ActivityTaskManager: Displayed com.example.storyapp.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +232ms
+04-23 09:53:37.307   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3fa0e5000 0x3fa5f5000]
+04-23 09:53:37.320  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@56b5da7 in: STOPPED
+04-23 09:53:37.320  5016  5016 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.storyapp.view.ui.MainActivity@56b5da7
+04-23 09:53:37.324   529   790 W InputManager-JNI: Input channel object '755448 com.example.storyapp.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+04-23 09:53:37.331   365   365 E android.hardware.power.stats@1.0-service-mock: Failed to getEnergyData
+04-23 09:53:37.340  1372  1372 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=63, right=0, bottom=126}
+04-23 09:53:37.341  1372  1372 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=63, right=0, bottom=126}
+04-23 09:53:37.341   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f4fd2000 0x3f57bb000]
+04-23 09:53:37.347   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f678d000 0x3f6f76000]
+04-23 09:53:37.348   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f6f76000 0x3f775f000]
+04-23 09:53:37.353   406   406 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+04-23 09:53:37.357  1372  1642 I OpenGLRenderer: Davey! duration=34261ms; Flags=1, FrameTimelineVsyncId=1846, IntendedVsync=104491224890, Vsync=104491224890, InputEventId=0, HandleInputStart=104492392600, AnimationStart=104492405200, PerformTraversalsStart=104492423800, DrawStart=104508024000, FrameDeadline=104524558222, FrameInterval=104492385100, FrameStartTime=16666666, SyncQueued=104508209100, SyncStart=104510790300, IssueDrawCommandsStart=104510899400, SwapBuffers=104511085100, FrameCompleted=138754926800, DequeueBufferDuration=30000, QueueBufferDuration=599200, GpuCompleted=138754926800, SwapBuffersCompleted=104517992200, DisplayPresentTime=0,
+04-23 09:53:37.359   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f57bb000 0x3f5fa4000]
+04-23 09:53:37.363   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3f5fa4000 0x3f678d000]
+04-23 09:53:37.363  1232  1232 I GsaVoiceInteractionSrv: Handling ACTION_START_HOTWORD
+04-23 09:53:37.363  1232  1232 I GsaVoiceInteractionSrv: disregardVoiceMatch: false
+04-23 09:53:37.363  1232  1232 I GsaVoiceInteractionSrv: Cannot start hotword, hotword has been explicitly disabled.
+04-23 09:53:37.364   345   383 D goldfish-address-space: claimShared: Ask to claim region [0x3fa5f5000 0x3fadde000]
+04-23 09:53:37.363  5016  5016 D LifecycleMonitor: Lifecycle status change: com.example.storyapp.view.ui.MainActivity@56b5da7 in: DESTROYED
+04-23 09:53:37.364  5016  5016 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+04-23 09:53:37.364  5016  5039 I TestRunner: finished: test_Scrolling(com.example.storyapp.view.ui.MainActivityTest)

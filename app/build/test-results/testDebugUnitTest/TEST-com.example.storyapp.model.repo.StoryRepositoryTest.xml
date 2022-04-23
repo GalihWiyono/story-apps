@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.storyapp.model.repo.StoryRepositoryTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-04-23T02:51:09" hostname="LAPTOP-13CO7K1R" time="0.798">
+  <properties/>
+  <testcase name="Should Not Null and Return as Expected when getStoriesWithLocation Success" classname="com.example.storyapp.model.repo.StoryRepositoryTest" time="0.715"/>
+  <testcase name="Should Not Null and Return as Expected when uploadStory Success" classname="com.example.storyapp.model.repo.StoryRepositoryTest" time="0.002"/>
+  <testcase name="Should Not Null and Return as Expected when Call loading" classname="com.example.storyapp.model.repo.StoryRepositoryTest" time="0.002"/>
+  <testcase name="Should Not Null and Return as Expected when Call storyWithLocation" classname="com.example.storyapp.model.repo.StoryRepositoryTest" time="0.002"/>
+  <testcase name="Should Not Null and Return as Expected When getStoriesPaging Success" classname="com.example.storyapp.model.repo.StoryRepositoryTest" time="0.073"/>
+  <testcase name="Should Not Null and Return as Expected when Call responseUpload" classname="com.example.storyapp.model.repo.StoryRepositoryTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

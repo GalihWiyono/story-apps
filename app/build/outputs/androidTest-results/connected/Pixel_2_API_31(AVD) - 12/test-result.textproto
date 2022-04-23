@@ -1,0 +1,172 @@
+# 2022-04-23T02:53:40.008Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 3
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "MainActivityTest"
+    test_package: "com.example.storyapp.view.ui"
+    test_method: "test_Scrolling"
+    start_time {
+      seconds: 1650682415
+      nanos: 644000000
+    }
+    end_time {
+      seconds: 1650682417
+      nanos: 331000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Galih\\AndroidStudioProjects\\StoryApp\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_31(AVD) - 12\\logcat-com.example.storyapp.view.ui.MainActivityTest-test_Scrolling.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Galih\\AndroidStudioProjects\\StoryApp\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_31(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Galih\\AndroidStudioProjects\\StoryApp\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_31(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Galih\\AndroidStudioProjects\\StoryApp\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_31(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MainActivityTest"
+    test_package: "com.example.storyapp.view.ui"
+    test_method: "test_CheckingRecyclerViewVisible"
+    start_time {
+      seconds: 1650682417
+      nanos: 343000000
+    }
+    end_time {
+      seconds: 1650682417
+      nanos: 780000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Galih\\AndroidStudioProjects\\StoryApp\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_31(AVD) - 12\\logcat-com.example.storyapp.view.ui.MainActivityTest-test_CheckingRecyclerViewVisible.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Galih\\AndroidStudioProjects\\StoryApp\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_31(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Galih\\AndroidStudioProjects\\StoryApp\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_31(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Galih\\AndroidStudioProjects\\StoryApp\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_31(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MainActivityTest"
+    test_package: "com.example.storyapp.view.ui"
+    test_method: "test_ScrollAndNavToDetail"
+    start_time {
+      seconds: 1650682417
+      nanos: 807000000
+    }
+    end_time {
+      seconds: 1650682419
+      nanos: 771000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Galih\\AndroidStudioProjects\\StoryApp\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_31(AVD) - 12\\logcat-com.example.storyapp.view.ui.MainActivityTest-test_ScrollAndNavToDetail.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Galih\\AndroidStudioProjects\\StoryApp\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_31(AVD) - 12\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Galih\\AndroidStudioProjects\\StoryApp\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_31(AVD) - 12\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Galih\\AndroidStudioProjects\\StoryApp\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_31(AVD) - 12\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\Galih\\AndroidStudioProjects\\StoryApp\\app\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_31(AVD) - 12\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
