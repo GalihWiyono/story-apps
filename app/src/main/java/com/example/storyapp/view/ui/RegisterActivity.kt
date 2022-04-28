@@ -30,7 +30,6 @@ class RegisterActivity : AppCompatActivity() {
 
         startAnimation()
         checkUserStatus()
-        checkInput()
         setupAction()
 
 
@@ -113,30 +112,6 @@ class RegisterActivity : AppCompatActivity() {
             nameEdit.isEnabled = !isLoading
             emailEdit.isEnabled = !isLoading
             passwordEdit.isEnabled =!isLoading
-        }
-    }
-
-    private fun checkInput() {
-        binding.apply {
-            emailEdit.doAfterTextChanged { email ->
-                if(checkEmail(email.toString())) {
-                    emailEditLayout.error = null
-                    emailEdit.errorCheck = false
-                } else {
-                    emailEditLayout.error = "Format Email Salah, e.g: aaaa@bbbb.ccc"
-                    emailEdit.errorCheck = true
-                }
-            }
-
-            passwordEdit.doAfterTextChanged { password ->
-                if (password.toString().length < 6) {
-                    passwordEditLayout.error = "Password Kurang Dari 6"
-                    passwordEdit.errorCheck = true
-                } else if (password.toString().length >= 6) {
-                    passwordEditLayout.error = null
-                    passwordEdit.errorCheck = false
-                }
-            }
         }
     }
 

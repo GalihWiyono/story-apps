@@ -87,129 +87,130 @@
 48-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:32:9-54
 49        android:supportsRtl="true"
 49-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:33:9-35
-50        android:theme="@style/Theme.StoryApp"
-50-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:35:9-46
-51        android:usesCleartextTraffic="true" >
-51-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:34:9-44
-52        <meta-data
-52-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:37:9-39:71
-53            android:name="com.google.android.geo.API_KEY"
-53-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:38:13-58
-54            android:value="AIzaSyBV5YWtmx9DDQbt9qB-6E7uadW5XwWAkaM" />
-54-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:39:13-68
-55
-56        <activity
-56-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:41:9-44:59
-57            android:name="com.example.storyapp.view.ui.MapsActivity"
-57-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:42:13-49
-58            android:exported="false"
-58-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:43:13-37
-59            android:label="@string/title_activity_maps" />
-59-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:44:13-56
-60        <activity
-60-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:45:9-47:40
-61            android:name="com.example.storyapp.view.ui.AddStoryActivity"
-61-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:46:13-53
-62            android:exported="false" />
-62-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:47:13-37
-63        <activity
-63-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:48:9-50:40
-64            android:name="com.example.storyapp.view.ui.DetailActivity"
-64-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:49:13-51
-65            android:exported="false" />
-65-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:50:13-37
-66        <activity
-66-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:51:9-53:40
-67            android:name="com.example.storyapp.view.ui.RegisterActivity"
-67-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:52:13-53
-68            android:exported="false" />
-68-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:53:13-37
-69        <activity
-69-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:54:9-62:20
-70            android:name="com.example.storyapp.view.ui.LoginActivity"
-70-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:55:13-50
-71            android:exported="true" >
-71-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:56:13-36
-72            <intent-filter>
-72-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:57:13-61:29
-73                <action android:name="android.intent.action.MAIN" />
-73-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:58:17-69
-73-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:58:25-66
-74
-75                <category android:name="android.intent.category.LAUNCHER" />
-75-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:60:17-77
-75-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:60:27-74
-76            </intent-filter>
-77        </activity>
-78        <activity
-78-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:63:9-65:40
-79            android:name="com.example.storyapp.view.ui.MainActivity"
-79-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:64:13-49
-80            android:exported="false" />
-80-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:65:13-37
-81
-82        <provider
-82-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:67:9-75:20
-83            android:name="androidx.core.content.FileProvider"
-83-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:68:13-62
-84            android:authorities="com.example.storyapp"
-84-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:69:13-55
-85            android:exported="false"
-85-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:70:13-37
-86            android:grantUriPermissions="true" >
-86-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:71:13-47
-87            <meta-data
-87-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:72:13-74:53
-88                android:name="android.support.FILE_PROVIDER_PATHS"
-88-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:73:17-67
-89                android:resource="@xml/file_path" />
-89-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:74:17-50
-90        </provider>
-91        <!-- Needs to be explicitly declared on P+ -->
-92        <uses-library
-92-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Galih\.gradle\caches\transforms-3\28880563bc541646c7c7b5a89317b610\transformed\play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
-93            android:name="org.apache.http.legacy"
-93-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Galih\.gradle\caches\transforms-3\28880563bc541646c7c7b5a89317b610\transformed\play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
-94            android:required="false" />
-94-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Galih\.gradle\caches\transforms-3\28880563bc541646c7c7b5a89317b610\transformed\play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
-95
-96        <activity
-96-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Galih\.gradle\caches\transforms-3\a5da593351b294439a1ec42f48b4b74b\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
-97            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-97-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Galih\.gradle\caches\transforms-3\a5da593351b294439a1ec42f48b4b74b\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
-98            android:exported="false"
-98-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Galih\.gradle\caches\transforms-3\a5da593351b294439a1ec42f48b4b74b\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
-99            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-99-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Galih\.gradle\caches\transforms-3\a5da593351b294439a1ec42f48b4b74b\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
-100
-101        <meta-data
-101-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Galih\.gradle\caches\transforms-3\111645171a864854580275cfb5b1e20d\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
-102            android:name="com.google.android.gms.version"
-102-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Galih\.gradle\caches\transforms-3\111645171a864854580275cfb5b1e20d\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
-103            android:value="@integer/google_play_services_version" />
-103-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Galih\.gradle\caches\transforms-3\111645171a864854580275cfb5b1e20d\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
-104
-105        <provider
-105-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Galih\.gradle\caches\transforms-3\8c76da92c889e695ea5d919d03a59d2d\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-106            android:name="androidx.startup.InitializationProvider"
-106-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Galih\.gradle\caches\transforms-3\8c76da92c889e695ea5d919d03a59d2d\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-107            android:authorities="com.example.storyapp.androidx-startup"
-107-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Galih\.gradle\caches\transforms-3\8c76da92c889e695ea5d919d03a59d2d\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-108            android:exported="false" >
-108-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Galih\.gradle\caches\transforms-3\8c76da92c889e695ea5d919d03a59d2d\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-109            <meta-data
-109-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Galih\.gradle\caches\transforms-3\8c76da92c889e695ea5d919d03a59d2d\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-110                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-110-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Galih\.gradle\caches\transforms-3\8c76da92c889e695ea5d919d03a59d2d\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-111                android:value="androidx.startup" />
-111-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Galih\.gradle\caches\transforms-3\8c76da92c889e695ea5d919d03a59d2d\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-112            <meta-data
-112-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Galih\.gradle\caches\transforms-3\7487e919e9d1aeb38aee02d28246dbf7\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-113                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-113-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Galih\.gradle\caches\transforms-3\7487e919e9d1aeb38aee02d28246dbf7\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-114                android:value="androidx.startup" />
-114-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Galih\.gradle\caches\transforms-3\7487e919e9d1aeb38aee02d28246dbf7\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-115        </provider>
-116    </application>
-117
-118</manifest>
+50        android:testOnly="true"
+51        android:theme="@style/Theme.StoryApp"
+51-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:35:9-46
+52        android:usesCleartextTraffic="true" >
+52-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:34:9-44
+53        <meta-data
+53-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:37:9-39:71
+54            android:name="com.google.android.geo.API_KEY"
+54-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:38:13-58
+55            android:value="AIzaSyBV5YWtmx9DDQbt9qB-6E7uadW5XwWAkaM" />
+55-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:39:13-68
+56
+57        <activity
+57-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:41:9-44:59
+58            android:name="com.example.storyapp.view.ui.MapsActivity"
+58-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:42:13-49
+59            android:exported="false"
+59-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:43:13-37
+60            android:label="@string/title_activity_maps" />
+60-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:44:13-56
+61        <activity
+61-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:45:9-47:40
+62            android:name="com.example.storyapp.view.ui.AddStoryActivity"
+62-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:46:13-53
+63            android:exported="false" />
+63-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:47:13-37
+64        <activity
+64-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:48:9-50:40
+65            android:name="com.example.storyapp.view.ui.DetailActivity"
+65-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:49:13-51
+66            android:exported="false" />
+66-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:50:13-37
+67        <activity
+67-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:51:9-53:40
+68            android:name="com.example.storyapp.view.ui.RegisterActivity"
+68-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:52:13-53
+69            android:exported="false" />
+69-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:53:13-37
+70        <activity
+70-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:54:9-62:20
+71            android:name="com.example.storyapp.view.ui.LoginActivity"
+71-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:55:13-50
+72            android:exported="true" >
+72-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:56:13-36
+73            <intent-filter>
+73-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:57:13-61:29
+74                <action android:name="android.intent.action.MAIN" />
+74-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:58:17-69
+74-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:58:25-66
+75
+76                <category android:name="android.intent.category.LAUNCHER" />
+76-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:60:17-77
+76-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:60:27-74
+77            </intent-filter>
+78        </activity>
+79        <activity
+79-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:63:9-65:40
+80            android:name="com.example.storyapp.view.ui.MainActivity"
+80-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:64:13-49
+81            android:exported="false" />
+81-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:65:13-37
+82
+83        <provider
+83-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:67:9-75:20
+84            android:name="androidx.core.content.FileProvider"
+84-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:68:13-62
+85            android:authorities="com.example.storyapp"
+85-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:69:13-55
+86            android:exported="false"
+86-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:70:13-37
+87            android:grantUriPermissions="true" >
+87-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:71:13-47
+88            <meta-data
+88-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:72:13-74:53
+89                android:name="android.support.FILE_PROVIDER_PATHS"
+89-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:73:17-67
+90                android:resource="@xml/file_path" />
+90-->C:\Users\Galih\AndroidStudioProjects\StoryApp\app\src\main\AndroidManifest.xml:74:17-50
+91        </provider>
+92        <!-- Needs to be explicitly declared on P+ -->
+93        <uses-library
+93-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Galih\.gradle\caches\transforms-3\28880563bc541646c7c7b5a89317b610\transformed\play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
+94            android:name="org.apache.http.legacy"
+94-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Galih\.gradle\caches\transforms-3\28880563bc541646c7c7b5a89317b610\transformed\play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
+95            android:required="false" />
+95-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Galih\.gradle\caches\transforms-3\28880563bc541646c7c7b5a89317b610\transformed\play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
+96
+97        <activity
+97-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Galih\.gradle\caches\transforms-3\a5da593351b294439a1ec42f48b4b74b\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+98            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+98-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Galih\.gradle\caches\transforms-3\a5da593351b294439a1ec42f48b4b74b\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+99            android:exported="false"
+99-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Galih\.gradle\caches\transforms-3\a5da593351b294439a1ec42f48b4b74b\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+100            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+100-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Galih\.gradle\caches\transforms-3\a5da593351b294439a1ec42f48b4b74b\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+101
+102        <meta-data
+102-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Galih\.gradle\caches\transforms-3\111645171a864854580275cfb5b1e20d\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+103            android:name="com.google.android.gms.version"
+103-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Galih\.gradle\caches\transforms-3\111645171a864854580275cfb5b1e20d\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+104            android:value="@integer/google_play_services_version" />
+104-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Galih\.gradle\caches\transforms-3\111645171a864854580275cfb5b1e20d\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+105
+106        <provider
+106-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Galih\.gradle\caches\transforms-3\8c76da92c889e695ea5d919d03a59d2d\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+107            android:name="androidx.startup.InitializationProvider"
+107-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Galih\.gradle\caches\transforms-3\8c76da92c889e695ea5d919d03a59d2d\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+108            android:authorities="com.example.storyapp.androidx-startup"
+108-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Galih\.gradle\caches\transforms-3\8c76da92c889e695ea5d919d03a59d2d\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+109            android:exported="false" >
+109-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Galih\.gradle\caches\transforms-3\8c76da92c889e695ea5d919d03a59d2d\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+110            <meta-data
+110-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Galih\.gradle\caches\transforms-3\8c76da92c889e695ea5d919d03a59d2d\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+111                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+111-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Galih\.gradle\caches\transforms-3\8c76da92c889e695ea5d919d03a59d2d\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+112                android:value="androidx.startup" />
+112-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Galih\.gradle\caches\transforms-3\8c76da92c889e695ea5d919d03a59d2d\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+113            <meta-data
+113-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Galih\.gradle\caches\transforms-3\7487e919e9d1aeb38aee02d28246dbf7\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+114                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+114-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Galih\.gradle\caches\transforms-3\7487e919e9d1aeb38aee02d28246dbf7\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+115                android:value="androidx.startup" />
+115-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Galih\.gradle\caches\transforms-3\7487e919e9d1aeb38aee02d28246dbf7\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+116        </provider>
+117    </application>
+118
+119</manifest>
